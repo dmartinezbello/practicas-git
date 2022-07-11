@@ -1,7 +1,5 @@
 const fruits = [
     'naranja',
-    'pera',
-    'banana',
-    'durazno'
+    'pera'
 ];
 console.log(fruits);
