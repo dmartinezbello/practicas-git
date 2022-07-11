@@ -2,6 +2,7 @@ const fruits = [
     'naranja',
     'pera',
     'banana',
-    'durazno'
+    'durazno',
+    'melon'
 ];
 console.log(fruits);
